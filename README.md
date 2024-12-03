@@ -36,8 +36,9 @@ Before setting up the bot, make sure you have the following:
    BOT_TOKEN=your-bot-token
   Replace your-bot-token with your bot's token.
  4. Run the Bot:
-     ```bash
-     npm start
+ ```bash
+npm start
+```
   The bot will log in and start listening for interactions in your Discord server.
   
  ### Usage:
