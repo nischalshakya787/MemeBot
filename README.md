@@ -26,8 +26,8 @@ Before setting up the bot, make sure you have the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/discord-memebot.git
-   cd discord-memebot
+   git clone https://github.com/nischalshakya787/MemeBot.git
+   cd MemeBot
 2. Install dependencies:
     ```bash
     npm install
