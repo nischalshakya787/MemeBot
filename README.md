@@ -35,7 +35,8 @@ Before setting up the bot, make sure you have the following:
    ```bash
    BOT_TOKEN=your-bot-token
   Replace your-bot-token with your bot's token.
- 4. Run the Bot:
+  
+4. Run the Bot:
  ```bash
 npm start
 ```
